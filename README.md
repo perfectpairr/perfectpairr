@@ -28,7 +28,7 @@
 <div align="center">
     <details>
         <summary> <td>$${\color{#FFFFFF}\verb| |}$$</td></summary>
-                  ${\textsf{\color{#FFFFFF} i only follow friends on this account !}}$ ${\textsf{\color{#FFC04F} maybe?}}$ <br>
+                  ${\textsf{\color{#FFFFFF} i only follow friends on this account !}}$ ${\textsf{\color{#F5E0C4} maybe?}}$ <br>
                   ${\textsf{\color{#FFFFFF} might slow / dry relies but talk to me yes i don't bite !}}$<br>
         
 <br>
