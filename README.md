@@ -27,7 +27,7 @@
      </p>
 <div align="center">
     <details>
-        <summary> <td>$${\color{#F5E0C4}\verb|Click Me :p|}$$</td></summary>
+        <summary> <td>$${\color{#F5E0C4}\verb|୨ৎ|}$$</td></summary>
                   ${\textsf{\color{#FFFFFF} i only follow friends on this account !}}$ ${\textsf{\color{#FFC04F} maybe?}}$ <br>
                   ${\textsf{\color{#FFFFFF} might slow / dry relies but talk to me yes i don't bite !}}$<br>
         
