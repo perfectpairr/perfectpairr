@@ -32,6 +32,10 @@
 <div align="center">
 
  $$\quad$$
+
+ $$\quad$$
+
+ $$\quad$$
  
  <div align="center">
     <details>
