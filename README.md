@@ -46,6 +46,8 @@
         <summary> <td>$${\color{#FFFFFF}\verb| |}$$</td></summary>
                   ${\textsf{\color{#FFFFFF} i only follow friends on this account !}}$ ${\textsf{\color{#F5E0C4} maybe?}}$ <br>
                   ${\textsf{\color{#FFFFFF} might slow / dry relies but talk to me yes i don't bite !}}$<br>
+                  <a href="https://walloftext.co/fuaa"> <img src= "https://64.media.tumblr.com/09c66f90b63e698ed8c846ae1db1e3a3/388005cfa81937ee-a9/s250x400/7611ee85a7b595f370532ddadd92c553b7c5133d.pnj" style="width: 7%; height: auto;"> </a> <-- my wall. drop a hi if u want^.^
+
         
 <br>
 </details>
