@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=perfectpairr&style=flat-square&color=FFC04F&label=+++279+++𓈒+++"/>
  </p>
  
-<p align="center"><img src="https://raw.githubusercontent.com/perfectpairr/oml/refs/heads/main/hi.png?token=GHSAT0AAAAAAD5HU55DO3A6IGC7Q3ZHUZIC2TBBGTA" width="300" height="auto" align="center"></img></a> 
+<p align="center"><img src="https://github.com/perfectpairr/oml/blob/main/hi.png?raw=true" width="300" height="auto" align="center"></img></a> 
 
 <p align="center">
    <br> <img src="https://64.media.tumblr.com/f4acdafde08e1b30f224ba003a3a0660/4d63848844bc292a-90/s2048x3072/e2eab9892faa9c81a4cde5495e4d06f68a3e37d1.pnj" width="15"> . ${\textsf{\color{#FFFFFF} fuan}}$ ${\textsf{\color{#FFE69E} ₒᵣ}}$ ${\textsf{\color{#FFC04F} fua}}$　 　 ${\textsf{\color{#FEA759} any prns}}$  ˎ
