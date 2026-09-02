@@ -28,7 +28,7 @@
     <td rowspan="1" align="center">
       <img src="https://github.com/perfectpairr/oml/blob/main/wings.gif?raw=true" width="18"> ㅤ ${\textsf{\color{#FFFFFF}ᅠfuan}}$ ${\textsf{\color{#8564FD}ᅠₒᵣ}}$ ${\textsf{\color{#FFFFFF}ᅠfua}}$　 　 ${\textsf{\color{#8564FD}ᅠ—ᅠany prns}}$  ˎ    ᅠ
     <br>
-${\textsf{\color{#8564FD}(ㅅ´ ˘ ‘)}}$ 　 ⤿ ${\textsf{\color{#FFFFFF} no dni}}$ ᅠ ${\textsf{\color{#FFFFFF} c*h welcome}}$ 　 ${\textsf{\color{#FFFFFF} if im alone !}}$ ㅤ ‎ <img src="https://github.com/perfectpairr/oml/blob/main/ywa.gif?raw=true" width="18">
+${\textsf{\color{#8564FD}(ㅅ´ ˘ ‘)}}$ 　 ⤿ ${\textsf{\color{#FFFFFF} no dni}}$ ᅠ ${\textsf{\color{#FFFFFF} c*h welcome}}$ 　 ${\textsf{\color{#FFFFFF} if im alone !}}$ ˎˊ˗
     </td>
   </tr>
 </table>
