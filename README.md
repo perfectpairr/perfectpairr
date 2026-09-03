@@ -33,4 +33,6 @@ ${\textsf{\color{#8564FD}(ㅅ´ ˘ ‘)}}$ 　 ⤿ ${\textsf{\color{#FFFFFF} no 
   </tr>
 </table>
 
+<div align="center">
 
+  [[click me]](https://guns.lol/taxduoo)
