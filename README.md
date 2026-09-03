@@ -22,7 +22,7 @@
  <table align="center">
   <tr>
 <td align="center" valign="middle">
-        <img width="350px" salt="image" src="https://raw.githubusercontent.com/perfectpairr/omnom/refs/heads/main/ezgif-345d209114c5aadb.gif?token=GHSAT0AAAAAAEHTCVIWU4CL5C6U2TFXNA7W2UZGBGQ" />
+        <img width="350px" salt="image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JqeWpocGY4N3hpeGxjYW1hb201dzRsNDNhZnY4c3o4dzl0MGlueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aI2PsyiMA0MvKf4miU/giphy.gif" />
     </td>
   </tr>
     <td rowspan="1" align="center">
