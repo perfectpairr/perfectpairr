@@ -22,7 +22,7 @@
  <table align="center">
   <tr>
 <td align="center" valign="middle">
-        <img width="350px" salt="image" src="https://github.com/perfectpairr/omnom/blob/main/ezgif-345d209114c5aadb.gif?raw=true" />
+        <img width="350px" salt="image" src="https://raw.githubusercontent.com/perfectpairr/omnom/refs/heads/main/ezgif-345d209114c5aadb.gif?token=GHSAT0AAAAAAEHTCVIWV6VKHC6PJ2TI5BZO2UZFCZA" />
     </td>
   </tr>
     <td rowspan="1" align="center">
